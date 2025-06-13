@@ -34,11 +34,8 @@ pip install -r requirements.txt
 Main Libraries:
 
 torch
-
 opencv-python
-
 pillow
-
 pandas
 
 
@@ -62,9 +59,12 @@ python your_script_name.py
 
 📁 Project Structure
 
-├── yolov5/                  # Cloned YOLOv5 repo
-├── detect_webcam.py     # Main Python file
-├── requirements.txt         # Dependencies
+├── yolov5/ 
+
+├── detect_webcam.py
+
+├── requirements.txt
+
 └── README.md
 
 
@@ -72,10 +72,11 @@ python your_script_name.py
 
 📷 Screenshot
 
-(Add a GUI screenshot here once you upload)
+![Screenshot (27)](https://github.com/user-attachments/assets/12ebd7e2-2079-4e0f-9b37-29ecc55f25a2)
 
 
 ---
+
 
 📌 Use Cases
 
